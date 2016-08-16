@@ -19,8 +19,10 @@ $(document).ready(function(){
     var word = $("input#input").val();
     if (word) {
       if(palindrome(word)){
+        $(".well").addClass("success");
         $(".well").text("Yes this is a palindrome!");
       }else {
+        $(".well").addClass("failure");
         $(".well").text("This is not a palindrome!");
       }
     } else {

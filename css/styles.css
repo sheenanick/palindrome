@@ -1,8 +1,18 @@
-#p1 {
-  color: red;
+body {
+  background-color: lavender;
 }
 
-#button {
-  margin-left: 45%;
-  margin-top: 20%;
+
+.well {
+  margin-top: 2rem;
+}
+
+.success {
+  color: green;
+  background: chartreuse;
+}
+
+.failure {
+  color: red;
+  background: papayawhip;
 }
