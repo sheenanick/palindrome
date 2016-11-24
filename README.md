@@ -1,23 +1,32 @@
-# _Template_
+# Palindrome
 
-#### By _Ewa Manek and Sheena Nickerson_
+#### 08.16.2016
+
+#### By Ewa Manek and Sheena Nickerson
 
 ## Description
 
-_A template website that has confirmed functional Javascript, CSS, Bootstrap (v3.3.7), and jQuery(v3.1.0)_
+A palindrome is any word, phrase, number, or other sequence of characters which reads the same backward or forward. This web page can identify whether or not a word is a palindrome.
 
 ## Setup/Installation Requirements
 
-* _Copy the repository from GitHub_
-* _Open the index.html file a browser of your choice_
-* _Open the console to confirm that javascript and jQuery are running_
+* `git clone https://github.com/sheenanick/palindrome`
+* Open the index.html file with the browser of your choice
 
-## GitHub link
-https://github.com/rloos289/Template
+## Support and Contact Details
+
+Please feel free to contact sheenanick@gmail.com if you have any issues or questions, ideas or concerns.
+
+## Technologies Used
+
+* HTML
+* Bootstrap
+* JavaScript
+* jQuery
 
 ## Licensing
 
-* MIT
+This software is licensed under the MIT license.
 
 Copyright (c) 2016 **_Ewa Manek and Sheena Nickerson_**
 Template Copyright (c) 2016 **_Ryan Loos_**
